@@ -1,0 +1,34 @@
+{
+  "estates": [
+    {
+      "id": 1,
+      "name": "Departamento en Palermo",
+      "lat": -34.594142,
+      "long": -58.422036
+    },
+    {
+      "id": 2,
+      "name": "Casa en San Isidro",
+      "lat": -34.46761,
+      "long": -58.510191
+    },
+    {
+      "id": 3,
+      "name": "Galpón en Isidro Casanova",
+      "lat": -34.7108671,
+      "long": -58.5958651
+    },
+    {
+      "id": 5,
+      "name": "Burger place in Mountain View",
+      "lat": 37.4222044,
+      "long": -122.0937993
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan"
+    }
+  ]
+}
